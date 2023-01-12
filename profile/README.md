@@ -1,5 +1,7 @@
 ## Somleng
 
+![Somleng](assets/diagram.png)
+
 Somleng is a collection of open source tools which provide a full-stack cloud communications platform. The goal of the project is to break down the economic and accessibility barriers to communications.
 
 > Our vision is a world where communications is accessible to everyone.

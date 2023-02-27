@@ -1,6 +1,7 @@
 ## Somleng
 
-Somleng is a collection of open source tools which provide a full-stack cloud communications platform. The goal of the project is to break down the economic and accessibility barriers to communications.
+Somleng is the world's only Open Source Telco-as-a-service (TaaS) and Cloud-communications-as-a-service (CPaaS).
+With the support of UNICEF, we're helping to save lives by reaching some of the most remote and vulnerable communities around the world.
 
 > Our vision is a world where communications is accessible to everyone.
 

@@ -16,7 +16,7 @@ You can use Somleng to roll out your own programmable voice and SMS to:
 * 🇰🇭 [Case Studies](https://www.somleng.org/case_studies.html)
 * 📚 [Documentation](https://www.somleng.org/docs.html)
 * 🌐 [Blog](https://www.somleng.org/blog.html)
-* ✅ [Digital Public Good](https://digitalpublicgoods.net/registry/somleng.html)
+* ✅ [Digital Public Good](https://digitalpublicgoods.net/r/somleng)
 * :octocat: [More Info](https://github.com/somleng/somleng-project)
 
 Somleng is sponsored by the [UNICEF Innovation Fund](https://www.unicefinnovationfund.org/).
